@@ -1,4 +1,4 @@
-# Scrapy---python
+# Scrapy-python
 
 
 Hey guys , This is a scrapy repository where I have put my scrappers . I have provided my crawler programs only in this repository so just add them in your spider folder after running startproject command.
