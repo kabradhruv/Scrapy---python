@@ -1,7 +1,7 @@
 # Scrapy-python
 
 
-Hey guys , This is a scrapy repository where I have put my scrappers . I have provided my crawler programs only in this repository so just add them in your spider folder after running startproject command.
+Hey guys , This is a scrapy repository where I have put my scrappers . I have provided my crawler programs only in this repository so just add them in your spider folder after running startproject command.If a folder is there it means it is a full program
 
 If you don't know then these are the steps -
 1. Donwload python and scrapy library
